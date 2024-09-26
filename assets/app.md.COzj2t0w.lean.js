@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.DEzihRes.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"ixTheme"},"headers":[],"relativePath":"app.md","filePath":"app.md"}'),p={name:"app.md"};function o(r,s,c,n,i,_){return a(),t("div")}const f=e(p,[["render",o]]);export{m as __pageData,f as default};
